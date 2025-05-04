@@ -5,7 +5,7 @@
 - 💼 I’m focusing on developing **AI-driven web apps** and **full-stack projects**.
 - 🤝 I’m looking to collaborate on **Open Source Projects, Full-Stack Development, and AI-based Web Apps**.
 - 📫 How to reach me:  
-  - **Email:** shreyansh.dev@example.com  
+  - **Email:** shreyanshg43@gmail.com  
   - **LinkedIn:** [linkedin.com/in/shreyansh-gupta]((https://www.linkedin.com/in/shreyansh-gupta-680025276/))  
   - **Portfolio:** [https://shreyanshgupta-lime.vercel.app/](https://shreyanshgupta-lime.vercel.app/)
 - 😄 Pronouns: **He/Him**
