@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shreyanshdev
+# 👋 Hi, I’m Shreyansh Gupta
 
 - 👀 I’m passionate about **Web Development** and love building impactful projects.
 - 🌱 I’m currently learning and working with the **MERN stack (MongoDB, Express.js, React.js, Node.js)** along with **Next.js & Tailwind CSS**.
