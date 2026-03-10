@@ -1,3 +1,4 @@
+
 # 👋 Hi, I’m Shreyansh Gupta
 
 - 👀 I’m passionate about **Web Development** and love building impactful projects.
@@ -6,8 +7,8 @@
 - 🤝 I’m looking to collaborate on **Open Source Projects, Full-Stack Development, and AI-based Web Apps**.
 - 📫 How to reach me:  
   - **Email:** shreyanshg43@gmail.com  || vasuzx890@gmail.com
-  - **LinkedIn:** [linkedin.com/in/shreyansh-gupta]((https://www.linkedin.com/in/shreyansh-gupta-680025276/))  
-  - **Portfolio:** [https://shreyanshgupta-lime.vercel.app/](https://shreyanshgupta-lime.vercel.app/)
+  - **LinkedIn:** [linkedin.com/in/shreyansh-gupta]((https://www.linkedin.com/in/shreyansh-gupta-680025276))  
+  - **Portfolio:** [https://shreyanshgupta-lime.vercel.app/]([https://shreyanshgupta-lime.vercel.app/](https://shreyansh-alpha.vercel.app/))
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love to break down **complex problems** into **simple, actionable steps**, and I enjoy sharing knowledge with others.
 
