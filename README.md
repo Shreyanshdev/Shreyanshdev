@@ -1,53 +1,126 @@
-<div align="center">
-
-# Hey, I'm Shreyansh Gupta 👋
-### Full-Stack Developer & Enterprise Solutions Engineer
-
-I specialize in crafting high-performance, pixel-perfect digital experiences. My expertise lies in building complex enterprise systems and fluid mobile applications that solve real-world problems.
-
----
-
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-gupta-680025276/)
-[![](https://img.shields.io/badge/Portfolio-2D2A26?style=for-the-badge&logo=vercel&logoColor=white)](https://shreyansh-alpha.vercel.app/)
-[![](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanshg43@gmail.com)
-
-</div>
-
----
-
-### 🚀 What I'm Up To
-*   🏗️ **Current Focus**: Engineering **Dhanlekha ERP**, a robust billing and enterprise resource planning software designed for precision and business efficiency.
-*   ⭐ **Featured Project**: **TakeSmart** — A premier application focused on creating seamless, intuitive user experiences through modern tech.
-*   ⚡ **Engineering Philosophy**: I believe in clean code, robust state management, and "Design-First" development.
-
----
-
-### 🛠️ Core Technology Stack
 
 <div align="center">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+# Hi, I'm **Shreyansh Gupta** 👋
 
-</div>
+### Full Stack Engineer • Enterprise Software • React Native
 
----
-
-### 📈 GitHub Momentum
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Government+Digital+Platforms;Production+ERP+Systems;React+Native+%7C+Next.js+%7C+Node.js;Clean+Architecture+%E2%9C%A8" />
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyanshdev&theme=tokyonight" alt="GitHub Streak" width="93%" />
+<a href="https://github.com/Shreyanshdev">
+<img src="https://komarev.com/ghpvc/?username=Shreyanshdev&style=for-the-badge&color=blue"/>
+</a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://shreyansh-alpha.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyansh-gupta-680025276)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:shreyanshg43@gmail.com)
+
 </div>
 
 ---
 
+## 🚀 About
+
+- 🏛️ Building **UP PLEDGE** (Government of Uttar Pradesh)
+- 💎 Developing **DhanLekha ERP**
+- 📱 Building **TakeSmart**
+- 🤖 AI-powered enterprise software
+- ⚡ Passionate about scalable systems & clean architecture
+
+---
+
+## ✨ Featured Work
+
+### 🏛️ UP PLEDGE
+> Official Government Industrial Land Allotment Portal
+
+`Next.js` • `TypeScript` • `PostgreSQL` • `Tailwind` • `RBAC`
+
+### 💎 DhanLekha ERP
+> AI Powered Offline-First Enterprise ERP
+
+`CRM` • `Inventory` • `Billing` • `Redis` • `BullMQ` • `FastAPI` • `Electron`
+
+### 📱 TakeSmart
+> Production Quick Commerce Platform
+
+`React Native` • `Socket.IO` • `Razorpay` • `MongoDB` • `JWT`
+
+---
+
+# ⚡ Tech Arsenal
+
+### Frontend
+
+<p>
+<img height="42" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,typescript,javascript,tailwind,redux,vite,html,css,sass"/>
+</p>
+
+### Mobile
+
+<p>
+<img height="42" src="https://go-skill-icons.vercel.app/api/icons?i=react"/>
+</p>
+
+`React Native` • `Expo` • `Reanimated` • `React Navigation` • `Redux Toolkit`
+
+### Backend
+
+<p>
+<img height="42" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express"/>
+</p>
+
+`REST API` • `JWT` • `OAuth` • `RBAC` • `Zod` • `Inngest`
+
+### Database
+
+<p>
+<img height="42" src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis,sqlite"/>
+</p>
+
+`Drizzle ORM` • `Knex` • `Mongoose`
+
+### DevOps & Cloud
+
+<p>
+<img height="42" src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,linux,vercel"/>
+</p>
+
+`Render` • `Cloudinary` • `BullMQ` • `TurboRepo` • `GitHub Actions`
+
+### AI
+
+<p>
+<img height="42" src="https://go-skill-icons.vercel.app/api/icons?i=openai,python"/>
+</p>
+
+`Claude` • `Gemini` • `LangChain` • `FastAPI`
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreyanshdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshdev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyanshdev&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyanshdev&theme=tokyo-night"/>
+</p>
+
+---
+
 <div align="center">
-  <p><i>"Building the future, one commit at a time."</i></p>
+
+### 💬 Let's Connect
+
+*"Building software that solves real-world problems."*
+
 </div>
-  
